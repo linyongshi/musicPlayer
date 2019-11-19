@@ -1,0 +1,29 @@
+[
+    {
+        "image": "/source/song1.jpg",
+        "audio": "/source/song1.mp3",
+        "song": "小半",
+        "album": "小梦大半",
+        "singer": "陈粒",
+        "duration": "297",
+        "isLike": true
+    },
+    {
+        "image": "/source/song2.jpg",
+        "audio": "/source/song2.mp3",
+        "song": "追光者",
+        "album": "夏至未至 影视原声带",
+        "singer": "岑宁儿",
+        "duration": "235",
+        "isLike": false
+    },
+    {
+        "image": "/source/song3.jpg",
+        "audio": "/source/song3.mp3",
+        "song": "Heart Like California",
+        "album": "Heart Like California",
+        "singer": "Before You Exit",
+        "duration": "220",
+        "isLike": false
+    }
+]
